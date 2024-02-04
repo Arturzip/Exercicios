@@ -1,0 +1,4 @@
+Artur	7.67	Aprovado
+Caio	8.00	Aprovado
+Mario	4.00	Reprovado
+Larissa	6.33	Reprovado
