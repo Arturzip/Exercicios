@@ -1,0 +1,5 @@
+ 
+ Nome: Artur 
+ Notas: 80,0	 7,5	 10,0 
+ Nome: Caio 
+ Notas: 90,0	 80,0	 80,0

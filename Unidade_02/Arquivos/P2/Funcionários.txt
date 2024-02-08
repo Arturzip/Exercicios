@@ -1,0 +1,6 @@
+Funcionário(a): Artur 
+ Salário: 5000.00R$ 
+ ID: 8740
+Funcionário(a): Caio 
+ Salário: 4500.00R$ 
+ ID: 3759
